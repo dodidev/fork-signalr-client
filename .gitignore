@@ -323,3 +323,6 @@ Distribution/
 # "Angular" Ausgaben
 Fbi.WebApp/wwwroot/
 Fbi.WebApp/tempUpload/
+
+# FVM Version Cache
+.fvm/
